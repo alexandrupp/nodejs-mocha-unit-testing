@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mocha-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrupp/nodejs-mocha-unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrupp/nodejs-mocha-unit-testing/issues"
+  },
+  "homepage": "https://github.com/alexandrupp/nodejs-mocha-unit-testing#readme"
+}
