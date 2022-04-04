@@ -4,5 +4,5 @@
 // (32°F − 32) × 5/9 = 0°C
 
 function getCelcius(farenheit) {
-    return farenheit.map(value => (value -32) * 5.9)
+    return farenheit.map(value => (value -32) * 5/9)
   }
