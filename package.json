@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/alexandrupp/nodejs-mocha-unit-testing/issues"
   },
-  "homepage": "https://github.com/alexandrupp/nodejs-mocha-unit-testing#readme"
+  "homepage": "https://github.com/alexandrupp/nodejs-mocha-unit-testing#readme",
+  "devDependencies": {
+    "chai": "^4.3.6"
+  }
 }
