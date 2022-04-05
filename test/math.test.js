@@ -37,4 +37,12 @@ describe('math.js tests', () => {
             expect(result).to.equal(10);
         });
     });
+
+    it('should throw an error', async () => {
+        try {
+            await math.add(1);
+        } catch (error) {
+            expect(error).to.equal('missing arg');
+        }
+    });
 });
